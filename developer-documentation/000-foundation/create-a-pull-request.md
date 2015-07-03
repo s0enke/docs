@@ -29,7 +29,7 @@ __Tasks:__
 - [ ] ... <add your own tasks>
 
 
-__Informations:__
+__Information:__
 
 | Q             | A
 | ------------- | ---
